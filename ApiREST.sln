@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiREST", "ApiREST\ApiREST.csproj", "{3F0DF1E6-65DC-4220-BCF5-C07F4CD5CE1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F0DF1E6-65DC-4220-BCF5-C07F4CD5CE1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0DF1E6-65DC-4220-BCF5-C07F4CD5CE1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0DF1E6-65DC-4220-BCF5-C07F4CD5CE1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F0DF1E6-65DC-4220-BCF5-C07F4CD5CE1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
